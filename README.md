@@ -2,7 +2,7 @@
 
 [![Ammar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ammar-ahmed22&theme=dark&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ammar-ahmed22&theme=dark&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ammar-ahmed22&theme=dark&hide=jupyter%20notebook&card_width=200)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ammar-ahmed22/ammar-ahmed22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
