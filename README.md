@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Ammar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ammar-ahmed22&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ammar-ahmed22&theme=dark&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
