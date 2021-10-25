@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ammar-ahmed22&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ammar-ahmed22&theme=dracula&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ammar-ahmed22/ammar-ahmed22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
