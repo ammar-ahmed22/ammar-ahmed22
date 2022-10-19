@@ -1,5 +1,5 @@
 <h2 align="left">
-(Peace be upon you) السلام عليكم
+<img src="https://media2.giphy.com/media/FMsPbGmBK2KnZSgYgh/giphy.gif?cid=ecf05e47m4qqviksx1tsgsfxxes4rdn7s257wuebl8buwzjh&rid=giphy.gif&ct=ts" width="50"> (Peace be upon you) السلام عليكم
 </h2>
 
 ### I'm Ammar 👋
