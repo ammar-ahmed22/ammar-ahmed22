@@ -1,4 +1,6 @@
-### السلام عليكم (Peace be upon you), I'm Ammar 👋
+<h2 align="right">
+ السلام عليكم
+</h2>
 
 *Frontend Developer @ [AI Arena](https://docs.aiarena.io/) | Data Analyst @ [FragranceBuy](https://fragrancebuy.ca)*
 
