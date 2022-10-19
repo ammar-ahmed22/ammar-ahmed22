@@ -1,4 +1,4 @@
-<h2 align="right">
+<h2 align="left">
  السلام عليكم
 </h2>
 
