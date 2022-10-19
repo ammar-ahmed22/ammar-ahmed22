@@ -1,6 +1,8 @@
 <h2 align="left">
-, I'm Ammar السلام عليكم
+(Peace be upon you) السلام عليكم
 </h2>
+
+### I'm Ammar 👋
 
 *Frontend Developer @ [AI Arena](https://docs.aiarena.io/) | Data Analyst @ [FragranceBuy](https://fragrancebuy.ca)*
 
