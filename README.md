@@ -14,7 +14,7 @@ class Engineer{
   constructor(
     public name: string = "Ammar Ahmed",
     public school: string = "University of Waterloo",
-    public degree: string = "BASc. in Nanotechnology Engineering"
+    public degree: string = "BASc. in Nanotechnology Engineering",
     public yearOfStudy: number = 2,
     public currentRole: Role = {
       company: "AI Arena",
