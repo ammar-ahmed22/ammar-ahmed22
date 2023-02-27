@@ -82,7 +82,7 @@ console.log(me.getFunFact());
 
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.9%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -137,5 +137,5 @@ Mac                      19 hrs 14 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛�
 ```
 
 
- Last Updated on 26/02/2023 18:38:44 UTC
+ Last Updated on 27/02/2023 18:43:14 UTC
 <!--END_SECTION:waka-->
