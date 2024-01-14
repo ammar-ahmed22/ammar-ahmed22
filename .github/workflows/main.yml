@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: gleich/profile_stack@v2.0.0
+      - uses: gleich/profile_stack@v2.1.0
         with:
           path: config/stack.yml
           technology_emoji: 👨🏾‍💻
