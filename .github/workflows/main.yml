@@ -11,4 +11,4 @@ jobs:
         with:
           path: config/stack.yml
           technology_emoji: 👨🏾‍💻
-          projects_emoji: ✨
+          project_emoji: ✨
