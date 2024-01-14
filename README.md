@@ -1,6 +1,6 @@
 ##  👋 (Peace be upon you) ٱلسَّلَامُ عَلَيْكُمْ
 
-### Engineering Student (Co-op) @ University of Waterloo | Software Developer @ Nokia | Student of Islamic Knowledge | Car Enthusiast | Husband
+#### Engineering Student (Co-op) @ University of Waterloo | Software Developer @ Nokia | Student of Islamic Knowledge | Car Enthusiast | Husband
 <!-- ### 👨🏾‍💻 A little bit about me
 - 📚 Studying Engineering @ University of Waterloo
 - 💼 On Co-op as a Software Developer @ Nokia
