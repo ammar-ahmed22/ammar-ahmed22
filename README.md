@@ -1,7 +1,7 @@
 ##  👋 (Peace be upon you) ٱلسَّلَامُ عَلَيْكُمْ
 
 <div align="center">
-  <a href="https://suckurmom.com"><img src="https://img.shields.io/badge/Ammar%20Ahmed-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/ammarahmed2203"><img src="https://img.shields.io/badge/Ammar%20Ahmed-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
 </div>
 
 #### 📚 Engineering Student (Co-op) @ University of Waterloo | 💼 Software Developer @ Nokia | ☪️ Student of Islamic Knowledge | 🏎️ Car Enthusiast | 💍 Husband
