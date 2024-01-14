@@ -1,0 +1,42 @@
+- name: TypeScript
+  logo: typescript
+  color: '#3178C6'
+  projects:
+    - url: https://github.com/ammar-ahmed22/compile-typst-action
+    - url: https://github.com/ammar-ahmed22/z-squared
+    - url: https://github.com/ammar-ahmed22/ammarahmedca-server
+    - url: https://github.com/ammar-ahmed22/ammarahmedca
+    - url: https://github.com/ammar-ahmed22/NotionToDo
+    - url: https://github.com/ammar-ahmed22/GraphQLPrayerTimes
+    - url: https://github.com/ammar-ahmed22/PathfinderV2
+    - url: https://github.com/ammar-ahmed22/PrayerCalendar
+    - url: https://github.com/ammar-ahmed22/graphql-auth-template
+    - url: https://github.com/ammar-ahmed22/graphql-starter
+
+- name: React
+  logo: react
+  color: '#61DAFB'
+  projects:
+    - url: https://github.com/ammar-ahmed22/z-squared
+    - url: https://github.com/ammar-ahmed22/ammarahmedca
+    - url: https://github.com/ammar-ahmed22/PathfinderV2
+    - url: https://github.com/ammar-ahmed22/PrayerCalendar
+
+- name: GraphQL
+  logo: graphql
+  color: '#E10098'
+  projects:
+    - url: https://github.com/ammar-ahmed22/z-squared
+    - url: https://github.com/ammar-ahmed22/ammarahmedca-server
+    - url: https://github.com/ammar-ahmed22/GraphQLPrayerTimes
+    - url: https://github.com/ammar-ahmed22/graphql-auth-template
+    - url: https://github.com/ammar-ahmed22/graphql-starter
+
+- name: C++
+  logo: cplusplus
+  color: '#00599C'
+  projects:
+    - url: https://github.com/ammar-ahmed22/cpp-sfml-template
+    - url: https://github.com/ammar-ahmed22/cpp-template
+    - url: https://github.com/ammar-ahmed22/RayTracer
+    - url: https://github.com/ammar-ahmed22/SnakeGame

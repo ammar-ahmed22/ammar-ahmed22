@@ -1,0 +1,14 @@
+name: Add Tech Stack Table to README
+on:
+  workflow_dispatch:
+
+jobs:
+  profile_stack:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gleich/profile_stack@v2.0.0
+        with:
+          path: config/stack.yml
+          technology_emoji: 👨🏾‍💻
+          projects_emoji: ✨
