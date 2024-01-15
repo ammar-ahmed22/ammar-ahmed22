@@ -18,7 +18,7 @@ const readmeFile = fs.readFileSync(readmePath, "utf-8");
 
 const parsed: Entry[] = yaml.parse(configFile);
 
-const table = createTable(parsed);
+const table = createTable(parsed, "🧑🏾‍💻", "🚀");
 const updatedReadme = insertTable(readmeFile, table);
 
 fs.writeFileSync(readmePath, updatedReadme);
