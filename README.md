@@ -7,7 +7,7 @@
   <a href="https://ammarahmed.ca"><img src="https://img.shields.io/badge/ammarahmed.ca-white?style=for-the-badge"/></a>
 </div>
 
-** 📚 Engineering Student (Co-op) @ University of Waterloo | 💼 Software Developer @ Nokia | ☪️ Student of Islamic Knowledge | 🏎️ Car Enthusiast | 💍 Husband **
+**📚 Engineering Student (Co-op) @ University of Waterloo | 💼 Software Developer @ Nokia | ☪️ Student of Islamic Knowledge | 🏎️ Car Enthusiast | 💍 Husband**
 
 <div align="center">
   <h4>✨ Tech Stack</h4>
