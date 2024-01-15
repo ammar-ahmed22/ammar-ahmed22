@@ -12,6 +12,7 @@
 <div align="center">
   <h4>✨ Tech Stack</h4>
 </div>
+
 <!-- TECH STACK START, DO NOT REMOVE -->
 | 🧑🏾‍💻 **Technology** | 🚀 **Projects** |
 | - | - |
