@@ -8,7 +8,11 @@
   <a href="https://github.com/ammar-ahmed22/typst-resume/releases"><img src="https://img.shields.io/github/v/release/ammar-ahmed22/typst-resume?sort=semver&style=for-the-badge&label=Resume&labelColor=white&color=rgb(35%2C%20134%2C%2054)"/></a>
 </div>
 
-**📚 Engineering Student (Co-op) @ University of Waterloo | 💼 Software Developer @ Nokia | ☪️ Student of Islamic Knowledge | 🏎️ Car Enthusiast | 💍 Husband**
+- 📚 Engineering Student (Co-op) @ University of Waterloo 
+- 💼 Software Developer @ Nokia 
+- ☪️ Student of Islamic Knowledge 
+- 🏎️ Car Enthusiast 
+- 💍 Husband
 
 <div align="center">
   <h4>✨ Tech Stack</h4>
