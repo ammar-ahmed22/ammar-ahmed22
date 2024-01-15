@@ -1,0 +1,25 @@
+{
+  "name": "ammar-ahmed22",
+  "version": "1.0.0",
+  "description": "GitHub profile",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "NODE_ENV=development ts-node ./src/index.ts",
+    "build": "tsc",
+    "start": "NODE_ENV=production node ./dist/index.js"
+  },
+  "author": "Ammar Ahmed",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "ts-node": "^10.9.2",
+    "tsc": "^2.0.4",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "axios": "^1.6.5",
+    "dotenv": "^16.3.1",
+    "yaml": "^2.3.4"
+  }
+}

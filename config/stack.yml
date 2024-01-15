@@ -1,6 +1,8 @@
 - name: TypeScript
   logo: typescript
+  url: https://google.ca
   color: '#3178C6'
+  logo_color: '#FFFFFF'
   projects:
     - url: https://github.com/ammar-ahmed22/compile-typst-action
     - url: https://github.com/ammar-ahmed22/z-squared
@@ -15,7 +17,9 @@
 
 - name: React
   logo: react
+  url: https://google.ca
   color: '#61DAFB'
+  logo_color: '#000000'
   projects:
     - url: https://github.com/ammar-ahmed22/z-squared
     - url: https://github.com/ammar-ahmed22/ammarahmedca
@@ -24,7 +28,9 @@
 
 - name: GraphQL
   logo: graphql
+  url: https://google.ca
   color: '#E10098'
+  logo_color: '#FFFFFF'
   projects:
     - url: https://github.com/ammar-ahmed22/z-squared
     - url: https://github.com/ammar-ahmed22/ammarahmedca-server
@@ -34,7 +40,9 @@
 
 - name: C++
   logo: cplusplus
+  url: https://google.ca
   color: '#00599C'
+  logo_color: '#FFFFFF'
   projects:
     - url: https://github.com/ammar-ahmed22/cpp-sfml-template
     - url: https://github.com/ammar-ahmed22/cpp-template
