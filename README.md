@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/ammarahmed2203"><img src="https://img.shields.io/badge/Ammar%20Ahmed-white?style=for-the-badge&logo=linkedin&logoColor=blue"/></a>
-  <a href="https://ammarahmed.ca"><img src="https://img.shields.io/badge/ammarahmed.ca-white?style=for-the-badge"/></a>
+  <a href="https://ammarahmed.ca"><img src="https://img.shields.io/badge/ammarahmed.ca-white?style=social&logo=react"/></a>
   <a href="https://github.com/ammar-ahmed22/typst-resume/releases"><img src="https://img.shields.io/github/v/release/ammar-ahmed22/typst-resume?style=social&label=Resume"/></a>
 </div>
 
