@@ -11,10 +11,10 @@ I'm a lifelong learner, always looking for something new to learn! Currently pur
 - 😍 My hobbies include pursuing Islamic knowledge, spending time with my wife, and coding!
 
 Through my academic career, I've accrued 4 internships:
-+ [Nokia](https://nokia.com): <br/> Software Developer (January 2024 - August 2024)
-+ [AI Arena](https://docs.aiarena.io/) - Frontend Developer (September 2022 - May 2023)
-+ [HIRE Technologies](https://www.linkedin.com/company/hiretechnologies) - Full-stack Developer (January 2022 - May 2022)
-+ [University of Waterloo (WIL Programs)](https://uwaterloo.ca/centre-for-work-integrated-learning/) - Developer (May 2021 - August 2021)
++ [Nokia](https://nokia.com) <br/> Software Developer (January 2024 - August 2024)
++ [AI Arena](https://docs.aiarena.io/) <br /> Frontend Developer (September 2022 - May 2023)
++ [HIRE Technologies](https://www.linkedin.com/company/hiretechnologies) <br /> Full-stack Developer (January 2022 - May 2022)
++ [University of Waterloo (WIL Programs)](https://uwaterloo.ca/centre-for-work-integrated-learning/) <br /> Developer (May 2021 - August 2021)
 
 
 
