@@ -6,14 +6,16 @@
 
 I'm a lifelong learner, always looking for something new to learn! Currently pursuing a Bachelor in Applied Sciences in Nanotechnology Engineering at the University of Waterloo!
 
+- 🌱 Learning Rust by building fun CLI tools
+- 🔥 Most proud of -- [ammarahmed.ca](https://ammarahmed.ca), my personally built portfolio website that uses Notion as a CMS!
+- 😍 My hobbies include pursuing Islamic knowledge, spending time with my wife, and coding!
+
 Through my academic career, I've accrued 4 internships at the following companies (*chronological order*):
 + [Nokia](https://nokia.com) - Software Developer (January 2024 - August 2024)
 + [AI Arena](https://docs.aiarena.io/) - Frontend Developer (September 2022 - May 2023)
 + [HIRE Technologies](https://www.linkedin.com/company/hiretechnologies) - Full-stack Developer (January 2022 - May 2022)
 + [University of Waterloo (WIL Programs)](https://uwaterloo.ca/centre-for-work-integrated-learning/) - Developer (May 2021 - August 2021)
 
-- 🌱 Learning Rust by building fun CLI tools
-- 🔥 Most proud of -- [ammarahmed.ca](https://ammarahmed.ca), my personally built portfolio website that uses Notion as a CMS!
-- 😍 My hobbies include pursuing Islamic knowledge, spending time with my wife, and coding!
+
 
 Technologies I've been learning and using:
