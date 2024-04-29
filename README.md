@@ -48,6 +48,7 @@ Technologies I've been learning and using:
 	![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat&logo=awslambda&logoColor=000)
 	![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=fff)
 	![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=fff)
+	![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=fff)
 - Tools/Frameworks: <br />
 	![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=fff)
 	![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=fff)
