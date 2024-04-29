@@ -10,7 +10,7 @@ export const hex2rgb = (hex: string): [number, number, number] => {
 
 export const foregroundColor = (hex: string) => {
   const [r, g, b] = hex2rgb(hex);
-  return (r*0.299 + g*0.587 + b*0.114) > 186 ? "#000" : "#fff"
+  return (r*0.299 + g*0.587 + b*0.114) > 150 ? "#000" : "#fff"
 }
 
 
