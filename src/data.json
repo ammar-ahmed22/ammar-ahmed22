@@ -22,6 +22,7 @@
     "nodemon",
     "express",
     "mongodb",
+    "mongoose",
     "graphql",
     "apollographql",
     "firebase",
