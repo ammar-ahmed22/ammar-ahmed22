@@ -30,7 +30,8 @@
     "postgresql",
     "awslambda",
     "amazondynamodb",
-    "docker"
+    "docker",
+    "vercel"
   ],
   "Tools/Frameworks": [
     "pandas",
