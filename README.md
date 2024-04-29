@@ -1,28 +1,62 @@
-<div align="center">
-<h1>👋 (Peace be upon you) ٱلسَّلَامُ عَلَيْكُمْ</h1>
-</div>
+### Hi, I'm Ammar - Software Engineer 👋
 
-<div align="center">
-  <a href="https://linkedin.com/in/ammarahmed2203"><img src="https://img.shields.io/badge/Ammar%20Ahmed-white?style=for-the-badge&logo=linkedin&logoColor=blue"/></a>
-  <a href="https://ammarahmed.ca"><img src="https://img.shields.io/badge/ammarahmed.ca-white?style=for-the-badge"/></a>
-  <a href="https://github.com/ammar-ahmed22/typst-resume/releases"><img src="https://img.shields.io/github/v/release/ammar-ahmed22/typst-resume?sort=semver&style=for-the-badge&label=Resume&labelColor=white&color=rgb(35%2C%20134%2C%2054)"/></a>
-</div>
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ammarahmed2203)](https://www.linkedin.com/in/ammarahmed2203)
+[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-db4c4c?style=flat&logo=buy-me-a-coffee&logoColor=ffffff&link=https%3A%2F%2Fbuymeacoffee.com%2Fammar.ahmed
+)](https://buymeacoffee.com/ammar.ahmed)
 
-- 📚 Engineering Student (Co-op) @ University of Waterloo 
-- 💼 Software Developer @ Nokia 
-- ☪️ Student of Islamic Knowledge 
-- 🏎️ Car Enthusiast 
-- 💍 Husband
+I'm a lifelong learner, always looking for something new to learn! Currently pursuing a Bachelor in Applied Sciences in Nanotechnology Engineering at the University of Waterloo!
 
-<div align="center">
-  <h4>✨ Tech Stack</h4>
-</div>
+- 🌱 Learning Rust by building fun CLI tools
+- 🔥 Most proud of -- [ammarahmed.ca](https://ammarahmed.ca), my personally built portfolio website that uses Notion as a CMS!
+- 😍 My hobbies include pursuing Islamic knowledge, spending time with my wife, and coding!
 
-<!-- TECH STACK START, DO NOT REMOVE -->
-| 🧑🏾‍💻 **Technology** | 🚀 **Projects** |
-| - | - |
-| [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=FFFFFF)](https://google.ca) | [![compile-typst-action](https://img.shields.io/badge/compile--typst--action-black?logo=github&logoColor=white)](https://github.com/ammar-ahmed22/compile-typst-action) [![z-squared](https://img.shields.io/badge/z--squared-black?logo=github&logoColor=white)](https://github.com/ammar-ahmed22/z-squared) [![ammarahmedca-server](https://img.shields.io/badge/ammarahmedca--server-black?logo=github&logoColor=white)](https://github.com/ammar-ahmed22/ammarahmedca-server) [![ammarahmedca](https://img.shields.io/badge/ammarahmedca-black?logo=github&logoColor=white)](https://github.com/ammar-ahmed22/ammarahmedca) [![NotionToDo](https://img.shields.io/badge/NotionToDo-black?logo=github&logoColor=white)](https://github.com/ammar-ahmed22/NotionToDo) [![GraphQLPrayerTimes](https://img.shields.io/badge/GraphQLPrayerTimes-black?logo=github&logoColor=white)](https://github.com/ammar-ahmed22/GraphQLPrayerTimes) [![PathfinderV2](https://img.shields.io/badge/PathfinderV2-black?logo=github&logoColor=white)](https://github.com/ammar-ahmed22/PathfinderV2) [![PrayerCalendar](https://img.shields.io/badge/PrayerCalendar-black?logo=github&logoColor=white)](https://github.com/ammar-ahmed22/PrayerCalendar) [![graphql-auth-template](https://img.shields.io/badge/graphql--auth--template-black?logo=github&logoColor=white)](https://github.com/ammar-ahmed22/graphql-auth-template) [![graphql-starter](https://img.shields.io/badge/graphql--starter-black?logo=github&logoColor=white)](https://github.com/ammar-ahmed22/graphql-starter) |
-| [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000000)](https://google.ca) | [![z-squared](https://img.shields.io/badge/z--squared-black?logo=github&logoColor=white)](https://github.com/ammar-ahmed22/z-squared) [![ammarahmedca](https://img.shields.io/badge/ammarahmedca-black?logo=github&logoColor=white)](https://github.com/ammar-ahmed22/ammarahmedca) [![PathfinderV2](https://img.shields.io/badge/PathfinderV2-black?logo=github&logoColor=white)](https://github.com/ammar-ahmed22/PathfinderV2) [![PrayerCalendar](https://img.shields.io/badge/PrayerCalendar-black?logo=github&logoColor=white)](https://github.com/ammar-ahmed22/PrayerCalendar) |
-| [![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=FFFFFF)](https://google.ca) | [![z-squared](https://img.shields.io/badge/z--squared-black?logo=github&logoColor=white)](https://github.com/ammar-ahmed22/z-squared) [![ammarahmedca-server](https://img.shields.io/badge/ammarahmedca--server-black?logo=github&logoColor=white)](https://github.com/ammar-ahmed22/ammarahmedca-server) [![GraphQLPrayerTimes](https://img.shields.io/badge/GraphQLPrayerTimes-black?logo=github&logoColor=white)](https://github.com/ammar-ahmed22/GraphQLPrayerTimes) [![graphql-auth-template](https://img.shields.io/badge/graphql--auth--template-black?logo=github&logoColor=white)](https://github.com/ammar-ahmed22/graphql-auth-template) [![graphql-starter](https://img.shields.io/badge/graphql--starter-black?logo=github&logoColor=white)](https://github.com/ammar-ahmed22/graphql-starter) |
-| [![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=FFFFFF)](https://google.ca) | [![cpp-sfml-template](https://img.shields.io/badge/cpp--sfml--template-black?logo=github&logoColor=white)](https://github.com/ammar-ahmed22/cpp-sfml-template) [![cpp-template](https://img.shields.io/badge/cpp--template-black?logo=github&logoColor=white)](https://github.com/ammar-ahmed22/cpp-template) [![RayTracer](https://img.shields.io/badge/RayTracer-black?logo=github&logoColor=white)](https://github.com/ammar-ahmed22/RayTracer) [![SnakeGame](https://img.shields.io/badge/SnakeGame-black?logo=github&logoColor=white)](https://github.com/ammar-ahmed22/SnakeGame) |
-<!-- TECH STACK END, DO NOT REMOVE -->
+Through my academic career, I've accrued 4 internships:
++ [Nokia](https://nokia.com) <br/> Software Developer *(January 2024 - August 2024)*
++ [AI Arena](https://docs.aiarena.io/) <br /> Frontend Developer *(September 2022 - May 2023)*
++ [HIRE Technologies](https://www.linkedin.com/company/hiretechnologies) <br /> Full-stack Developer *(January 2022 - May 2022)*
++ [University of Waterloo (WIL Programs)](https://uwaterloo.ca/centre-for-work-integrated-learning/) <br /> Developer *(May 2021 - August 2021)*
+
+Technologies I've been learning and using:
+<!-- START -->
+- Languages: <br />
+	![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+	![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)
+	![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=fff)
+	![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=fff)
+	![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=fff)
+	![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=fff)
+	![Typst](https://img.shields.io/badge/Typst-239DAD?style=flat&logo=typst&logoColor=fff)
+	![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=fff)
+- Frontend: <br />
+	![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000)
+	![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
+	![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=fff)
+	![Chakra UI](https://img.shields.io/badge/Chakra%20UI-319795?style=flat&logo=chakraui&logoColor=fff)
+	![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=fff)
+- Backend: <br />
+	![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=fff)
+	![ts-node](https://img.shields.io/badge/ts--node-3178C6?style=flat&logo=tsnode&logoColor=fff)
+	![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=flat&logo=nodemon&logoColor=000)
+	![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=fff)
+	![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff)
+	![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=fff)
+	![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=fff)
+	![Apollo GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-311C87?style=flat&logo=apollographql&logoColor=fff)
+	![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=000)
+	![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=fff)
+	![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=fff)
+	![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat&logo=awslambda&logoColor=000)
+	![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=fff)
+	![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=fff)
+- Tools/Frameworks: <br />
+	![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=fff)
+	![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=fff)
+	![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=000)
+	![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=fff)
+	![SFML](https://img.shields.io/badge/SFML-8CC445?style=flat&logo=sfml&logoColor=000)
+	![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=fff)
+	![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=fff)
+	![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=fff)
+	![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=fff)
+	![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=fff)
+<!-- END -->

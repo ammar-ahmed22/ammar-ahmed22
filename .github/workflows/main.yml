@@ -1,4 +1,4 @@
-name: Add Tech Stack Table to README
+name: Add Technologies to README
 on:
   workflow_dispatch:
 
@@ -7,8 +7,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: gleich/profile_stack@v2.1.0
+      - uses: actions/setup-node@v4
+        with: 
+          node-version: "20"
+      - run: yarn install --frozen-lockfile
+      - run: yarn build
+      - run: yarn start
+      - uses: EndBug/add-and-commit@v9
         with:
-          path: config/stack.yml
-          technology_emoji: 👨🏾‍💻
-          project_emoji: ✨
+          add: "."
+          message: "feat: updates to README technologies"
