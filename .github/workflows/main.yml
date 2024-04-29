@@ -1,6 +1,9 @@
 name: Add Technologies to README
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
   profile_stack:
