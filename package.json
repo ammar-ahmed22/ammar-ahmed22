@@ -1,0 +1,20 @@
+{
+  "name": "ammar-ahmed22",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "repository": "https://github.com/ammar-ahmed22/ammar-ahmed22.git",
+  "author": "Ammar Ahmed <ammar.ahmed1@uwaterloo.ca>",
+  "license": "MIT",
+  "dependencies": {
+    "simple-icons": "^11.14.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.7",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  },
+  "scripts": {
+    "dev": "ts-node ./src/index.ts",
+    "build": "tsc"
+  }
+}

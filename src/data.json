@@ -1,0 +1,46 @@
+{
+  "Languages": [
+    "javascript",
+    "typescript",
+    "python",
+    "cplusplus",
+    "rust",
+    "latex",
+    "typst",
+    "swift"
+  ],
+  "Frontend": [
+    "react",
+    "html5",
+    "css3",
+    "chakraui",
+    "bootstrap"
+  ],
+  "Backend": [
+    "nodedotjs",
+    "tsnode",
+    "nodemon",
+    "express",
+    "mongodb",
+    "graphql",
+    "apollographql",
+    "firebase",
+    "heroku",
+    "postgresql",
+    "awslambda",
+    "amazondynamodb",
+    "docker"
+  ],
+  "Tools/Frameworks": [
+    "pandas",
+    "numpy",
+    "scipy",
+    "threedotjs",
+    "sfml",
+    "git",
+    "postman",
+    "jira",
+    "github",
+    "githubactions"
+  ]
+}
