@@ -7,7 +7,7 @@
     "rust",
     "latex",
     "typst",
-    "swift"
+    "go"
   ],
   "Frontend": [
     "react",

@@ -8,12 +8,13 @@ I'm a lifelong learner, always looking for something new to learn! Currently pur
 
 - 🌱 Learning Rust by building fun CLI tools
 - 🔥 Most proud of -- [ammarahmed.ca](https://ammarahmed.ca), my personally built portfolio website that uses Notion as a CMS!
-- 😍 My hobbies include pursuing Islamic knowledge, spending time with my wife, and coding!
+- 😍 My hobbies include pursuing Islamic knowledge, spending time with my wife and daughter, and coding!
 
 Through my academic career, I've accrued 4 internships:
-+ [Nokia](https://nokia.com) <br/> Software Developer *(January 2024 - August 2024)*
++ [Mantle](https://withmantle.com) <br /> Software Engineering Intern *(January 2025 - May 2025)*
++ [Nokia](https://nokia.com) <br/> Software Engineering Intern *(January 2024 - August 2024)*
 + [AI Arena](https://docs.aiarena.io/) <br /> Frontend Developer *(September 2022 - May 2023)*
-+ [HIRE Technologies](https://www.linkedin.com/company/hiretechnologies) <br /> Full-stack Developer *(January 2022 - May 2022)*
++ [HIRE Technologies](https://www.linkedin.com/company/hiretechnologies) <br /> Software Engineering Intern *(January 2022 - May 2022)*
 + [University of Waterloo (WIL Programs)](https://uwaterloo.ca/centre-for-work-integrated-learning/) <br /> Developer *(May 2021 - August 2021)*
 
 Technologies I've been learning and using:
@@ -26,7 +27,7 @@ Technologies I've been learning and using:
 	![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=fff)
 	![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=fff)
 	![Typst](https://img.shields.io/badge/Typst-239DAD?style=flat&logo=typst&logoColor=fff)
-	![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=fff)
+	![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=fff)
 - Frontend: <br />
 	![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000)
 	![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
