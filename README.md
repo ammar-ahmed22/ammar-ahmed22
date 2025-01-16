@@ -10,7 +10,7 @@ I'm a lifelong learner, always looking for something new to learn! Currently pur
 - 🔥 Most proud of -- [ammarahmed.ca](https://ammarahmed.ca), my personally built portfolio website that uses Notion as a CMS!
 - 😍 My hobbies include pursuing Islamic knowledge, spending time with my wife and daughter, and coding!
 
-Through my academic career, I've accrued 4 internships:
+Through my academic career, I've accrued 5 internships:
 + [Mantle](https://withmantle.com) <br /> Software Engineering Intern *(January 2025 - May 2025)*
 + [Nokia](https://nokia.com) <br/> Software Engineering Intern *(January 2024 - August 2024)*
 + [AI Arena](https://docs.aiarena.io/) <br /> Frontend Developer *(September 2022 - May 2023)*
